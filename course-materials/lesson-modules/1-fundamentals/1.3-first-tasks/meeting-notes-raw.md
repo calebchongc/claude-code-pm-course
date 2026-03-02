@@ -257,50 +257,54 @@ busy week ahead!
 ## ✅ ACTION ITEMS SUMMARY
 *Auto-generated from meeting notes — Monday 10/7*
 
-### By Owner
+### By Due Date
 
-#### 🙋 Me (PM)
-| Action Item | Priority | Due Date | Source Meeting |
-|-------------|----------|----------|----------------|
-| Research competitor onboarding (Asana, Linear, ClickUp) | High | Wed 10/9 | Product Sync |
-| Draft PRD for notification improvements | High | Fri 10/11 | CTO Check-in |
-| Talk to customer success — notification ticket volume | Medium | Thu 10/10 | CTO Check-in |
-| Competitive analysis — notification handling | Medium | Fri 10/11 | CTO Check-in |
-| Write one-pager on template library (scope, goals, timeline) | High | Thu 10/10 | Template Planning |
-| Gather activation drop-off data (where do users abandon?) | High | Wed 10/9 | Template Planning |
-| Review Alex's mobile PRD | Medium | Wed 10/9 | Parking Lot |
-| Investigate custom SSO protocol request (enterprise customer) | Low | Next week | Parking Lot |
-| Check out competitor "Motion" | Low | This week | Parking Lot |
+#### ⚡ ASAP
+| Owner | Action Item | Priority | Source Meeting |
+|-------|-------------|----------|----------------|
+| 🔧 Mike (CTO) | Investigate search performance regression | High | Parking Lot |
 
-#### 🎨 Jordan (Design)
-| Action Item | Priority | Due Date | Source Meeting |
-|-------------|----------|----------|----------------|
-| Investigate contrast issues for user-uploaded images in dark mode | High | Wed 10/9 (design review) | Product Sync |
-| Wireframes for interactive tour concept | High | Thu 10/10 | Product Sync |
-| Quick mockups of template selection UI | Medium | Fri 10/11 | Template Planning |
-| Dark mode final mockups (design review Wed) | High | Wed 10/9 | Template Planning |
+#### 📅 Wednesday 10/9
+| Owner | Action Item | Priority | Source Meeting |
+|-------|-------------|----------|----------------|
+| 🙋 Me (PM) | Research competitor onboarding (Asana, Linear, ClickUp) | High | Product Sync |
+| 🙋 Me (PM) | Gather activation drop-off data (where do users abandon?) | High | Template Planning |
+| 🎨 Jordan (Design) | Investigate contrast issues for user-uploaded images in dark mode | High | Product Sync |
+| 🎨 Jordan (Design) | Dark mode final mockups (design review Wed) | High | Template Planning |
+| 👩‍💼 Sarah (Head of Product) | Talk to customer success about common activation blockers | High | Product Sync |
+| 🙋 Me (PM) | Review Alex's mobile PRD | Medium | Parking Lot |
 
-#### 👩‍💼 Sarah (Head of Product)
-| Action Item | Priority | Due Date | Source Meeting |
-|-------------|----------|----------|----------------|
-| Talk to customer success about common activation blockers | High | Wed 10/9 | Product Sync |
-| Prioritization decision: template library Q1 vs Q2? | High | This week | Template Planning |
+#### 📅 Thursday 10/10
+| Owner | Action Item | Priority | Source Meeting |
+|-------|-------------|----------|----------------|
+| 🙋 Me (PM) | Write one-pager on template library (scope, goals, timeline) | High | Template Planning |
+| 🎨 Jordan (Design) | Wireframes for interactive tour concept | High | Product Sync |
+| 🙋 Me (PM) | Talk to customer success — notification ticket volume | Medium | CTO Check-in |
+| 📱 Alex (Mobile PM) | Confirm: does mobile app need template support at launch or can it wait? | Medium | Template Planning |
 
-#### 🔧 Mike (CTO)
-| Action Item | Priority | Due Date | Source Meeting |
-|-------------|----------|----------|----------------|
-| Technical spec for notification improvements (if greenlit) | Medium | TBD | CTO Check-in |
-| Investigate search performance regression | High | ASAP | Parking Lot |
+#### 📅 Friday 10/11
+| Owner | Action Item | Priority | Source Meeting |
+|-------|-------------|----------|----------------|
+| 🙋 Me (PM) | Draft PRD for notification improvements | High | CTO Check-in |
+| 🙋 Me (PM) | Competitive analysis — notification handling | Medium | CTO Check-in |
+| 🎨 Jordan (Design) | Quick mockups of template selection UI | Medium | Template Planning |
+| 🛠️ Jamie (Eng Lead) | Detailed technical estimate for template library | Medium | Template Planning |
 
-#### 📱 Alex (Mobile PM)
-| Action Item | Priority | Due Date | Source Meeting |
-|-------------|----------|----------|----------------|
-| Confirm: does mobile app need template support at launch or can it wait? | Medium | Thu 10/10 | Template Planning |
+#### 📅 This Week
+| Owner | Action Item | Priority | Source Meeting |
+|-------|-------------|----------|----------------|
+| 👩‍💼 Sarah (Head of Product) | Prioritization decision: template library Q1 vs Q2? | High | Template Planning |
+| 🙋 Me (PM) | Check out competitor "Motion" | Low | Parking Lot |
 
-#### 🛠️ Jamie (Eng Lead)
-| Action Item | Priority | Due Date | Source Meeting |
-|-------------|----------|----------|----------------|
-| Detailed technical estimate for template library | Medium | Fri 10/11 | Template Planning |
+#### 📅 Next Week
+| Owner | Action Item | Priority | Source Meeting |
+|-------|-------------|----------|----------------|
+| 🙋 Me (PM) | Investigate custom SSO protocol request (enterprise customer) | Low | Parking Lot |
+
+#### 📅 TBD
+| Owner | Action Item | Priority | Source Meeting |
+|-------|-------------|----------|----------------|
+| 🔧 Mike (CTO) | Technical spec for notification improvements (if greenlit) | Medium | CTO Check-in |
 
 ---
 
